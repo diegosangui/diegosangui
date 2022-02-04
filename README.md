@@ -1,4 +1,4 @@
-++++++++PERIL EM CONSTRUÇÃO++++++++
+++++++++PERFIL EM CONSTRUÇÃO++++++++
 
 ### **Olá, sou o Diego, estudante de Data Science!** 👋
       
