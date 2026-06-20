@@ -27,7 +27,7 @@ Atualmente estou desenvolvendo projetos práticos de Ciência de Dados e Engenha
 * PostgreSQL
 * Git & GitHub
 
-📚 Neste perfil, compartilho meus estudos, projetos e experimentos voltados para Engenharia de Dados, Analytics Engineering e Machine Learning.
+📚 Neste perfil, compartilho meus estudos, projetos e experimentos voltados para Engenharia de Dados, Data Science e Machine Learning.
 
 Sempre aberto a aprender, colaborar e trocar conhecimentos sobre dados e tecnologia.
 
